@@ -1,0 +1,21 @@
+1.Create a form with input fields - Username,Age,Gender,Email,Phone Number
+
+2.One button - Submit
+
+3.Username Validation - Name should contains only alphabets and it doesn't contain more than 2 repeated characters continuously
+
+4.Age Validation - Age should be between 18 to 60 years
+
+5.Email Validation - Mailid should contains lowercases and domain name should be alphabets
+
+6.Phone Number Validation - Phone number should start only with 6 or 7 or 8 or 9 number and it should contains only 10 digits.
+
+7.Gender Validation - Male/Female
+
+7.Having a class with constructors and methods.
+
+8.Separate method will be defined for name,email,age,phone number.
+
+9.Once the submit event occurs the validate method get triggered to check the errors and the error messsages
+are displayed in the screen.
+
